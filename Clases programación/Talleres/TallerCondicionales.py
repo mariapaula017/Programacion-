@@ -68,10 +68,12 @@ resultado = ""
 
 #----Condicionales----#
 if (isMayorActual):
-resta = añoAcutual - añoCualquiera
+restar = añoAcutual - añoCualquiera
+    print ("el resultado de la resta es", restar)
     resultado = MENSAJE_AÑOS_PASADOS
 elif (isMayorCualquiera):
-resta = añoCualquiera - añoAcutual
+restar = añoCualquiera - añoAcutual
+print ("el resultado de la resta es", restar)
     resultado = MENSAJE_AÑOS_FALTANTES
 else: 
     resultado (MENSAJE_IGUALES)
