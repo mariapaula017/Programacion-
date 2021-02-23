@@ -1,5 +1,5 @@
-# Estos son booleans que son variables que solo valen 
-# verdadero falso 
+# Estos son booleans que son variables que solo valen #
+# verdadero falso #
 pruebaV = True 
 pruebaF = False
 print("pruebaF")
