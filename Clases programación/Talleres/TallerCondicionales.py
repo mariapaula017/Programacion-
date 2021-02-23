@@ -38,6 +38,7 @@ isJoven = edad >=  18 and edad < 26
 isAdulto = edad >= 26 and edad < 61
 IsAdultoMayor = edad > 61
 resultado = ""
+
 #----Condicionales----#
 if (isMenor):
     resultado = MENSAJE_MENOR_EDAD
@@ -99,4 +100,4 @@ elif (unidad == "M"):
 else:
     resultado = MENSAJE_ERROR
 
-    Print (resultado)
+Print (resultado)
