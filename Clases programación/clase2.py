@@ -1,9 +1,9 @@
 # Estos son booleans que son variables que solo valen #
-# verdadero falso #
+# verdadero falso 
 pruebaV = True 
 pruebaF = False
-print("pruebaF")
-print("pruebaV")
+print(pruebaF)
+print(pruebaV)
 pruebaV = pruebaF
 print ("pruebaV")
 edad = 20
@@ -17,8 +17,8 @@ print("#"*15,"Bajo la Estatura promedio", "#"*15)
 isMayorEstatura = estatura < 1.70
 print(isMayorEstatura)
 # calculando si el peso diferente de 57
-isPesoDiferente = peso != 57
 print("#"*15, "peso diferente 57", "#"*15)
+isPesoDiferente = peso != 57
 print(isPesoDiferente)
 # vamos a ver si un apellido esta en el nombre completo
 apellido = "Suarez"

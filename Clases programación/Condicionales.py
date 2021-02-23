@@ -23,7 +23,7 @@ else:
     print (MENSAJE_IGUAL)
     resultado = MENSAJE_IGUAL
 
-print (resultado) 
+print(resultado) 
 
 
 

@@ -16,7 +16,7 @@ isBajoPeso = imc < 18.5
 isNormal = imc >= 18.5 and imc <25
 isSobrepeso = imc >= 25 and imc < 30
 resultado = ""
-if (IsBajoPeso):
+if (isBajoPeso):
     resultado (MENSAJE_BAJO_PESO)
 elif (isNormal):
     resultado = MENSAJE_NORMAL

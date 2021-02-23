@@ -6,7 +6,7 @@ PREGUNTA_EDAD = "Cuantos años tienes ? :"
 
 #----Entrada al codigo----#
 print (MENSAJE_BIENVENIDA)
-edad = int (imput(PREGUNTA_EDAD))
+edad = int (input(PREGUNTA_EDAD))
 isMAYOR = edad >= 18
 resultado = ""
 if (isMAYOR):
