@@ -1,1 +1,0 @@
-preguntaTemperatura = input("Idfsdfsdfsd")
