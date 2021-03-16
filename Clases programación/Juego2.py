@@ -1,4 +1,5 @@
-#---- Entradas ----#
+import random
+#---- Entradas ----#import 
 MENSAJE_SALUDAR = " "
 Bienvenido 
 a este programa,
