@@ -1,0 +1,1 @@
+preguntaTemperatura = input("Idfsdfsdfsd")
