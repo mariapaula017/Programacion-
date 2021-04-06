@@ -46,7 +46,7 @@ def dividir (a = 0, b = 1):
     dividi = a / b
     return dividi 
 
-print (resta(83,87))
+print (restar(83,87))
 print(multiplicar(83,87))
 print(dividir(83,87))
 
