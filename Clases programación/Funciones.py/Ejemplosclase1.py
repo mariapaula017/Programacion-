@@ -45,10 +45,19 @@ def multiplicar (a = 0, b = 0):
 def dividir (a = 0, b = 1):
     dividi = a / b
     return dividi 
+    #-----Potenciar dos numeros-----#
+def potenciar (base = 0, exponente = 1):
+    potencia  = base ** exponente
+    return potencia
 
-print (restar(83,87))
+
+
+
+
+print(restar(83,87))
 print(multiplicar(83,87))
 print(dividir(83,87))
+print(potenciar(5,6))
 
 
 
