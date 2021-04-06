@@ -51,7 +51,7 @@ def potenciar (base = 0, exponente = 1):
     return potencia
 
 #-----Funciones dependientes de otras-----#
-def calcular (opreracion, numeroA, numeroB)
+def calcular (operacion, numeroA, numeroB):
     print (operacion(numeroA,numeroB))
 
 
